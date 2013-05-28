@@ -1,4 +1,4 @@
-test
+Recommended gitignore for Rails
 ====
 
-test
+from GitHub's .gitignore maker
